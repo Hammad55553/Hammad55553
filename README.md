@@ -156,13 +156,7 @@ Here are some of the real-world products I have engineered and launched to the s
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad55553&theme=tokyo-night&bg_color=1a1b27&hide_border=false" width="97%" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hammad55553&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="100%" />
-</p>
 
 ---
 
