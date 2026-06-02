@@ -19,8 +19,12 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Hammad55553?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Hammad55553?style=social" />
-  <img src="https://img.shields.io/github/repos/public/Hammad55553?style=flat-square&color=20C997&label=Public%20Repos" />
-  <img src="https://img.shields.io/badge/Shipped%20Apps-15+-00F2FE?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-33-20C997?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Private%20Repos-20%2B-FF6B6B?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shipped%20Apps-15%2B-00F2FE?style=flat-square&logo=appstore&logoColor=white" />
 </p>
 
 ---
