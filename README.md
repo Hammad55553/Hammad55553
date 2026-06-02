@@ -150,8 +150,8 @@ Here are some of the real-world products I have engineered and launched to the s
 ### 📊 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad55553&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad55553&theme=tokyonight&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammad55553&theme=tokyonight&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad55553&theme=tokyonight&layout=compact&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
