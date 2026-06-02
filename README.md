@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> Hi there, I'm Hammad Aslam!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=650&lines=Senior+React+Native+Developer+🚀%3BBuilding+Premium+iOS+%26+Android+Apps+📱%3BPixel-Perfect+UI%2FUX+Architect+🎨%3BFastAPI+%26+Backend+Developer+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=26&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=650&lines=Senior+React+Native+Developer+🚀;Building+Premium+iOS+%26+Android+Apps+📱;Pixel-Perfect+UI%2FUX+Architect+🎨;FastAPI+%26+Backend+Developer+⚙️" alt="Typing SVG" />
 </p>
 
 <p align="center">
