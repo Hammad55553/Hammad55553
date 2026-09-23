@@ -1,206 +1,713 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> Hi there, I'm Hammad Aslam!
+<!-- ========================= HEADER ========================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=26&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=650&lines=Senior+React+Native+Developer+🚀;Building+Premium+iOS+%26+Android+Apps+📱;Pixel-Perfect+UI%2FUX+Architect+🎨;FastAPI+%26+Backend+Developer+⚙️" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/hammadaslamkamboh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hammadaslam78612@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/Hammad55553" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hammad%20Aslam&fontSize=55&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=58&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Hammad55553?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Hammad55553?style=social" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-33-20C997?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Private%20Repos-20%2B-FF6B6B?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shipped%20Apps-15%2B-00F2FE?style=flat-square&logo=appstore&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;React+Native+%7C+React.js+%7C+FastAPI;Mobile+%7C+Web+%7C+Backend+%7C+Desktop;Building+Scalable+Digital+Products;Turning+Ideas+Into+Production-Ready+Apps" />
+
+<br/><br/>
+
+<a href="https://github.com/Hammad55553">
+<img src="https://img.shields.io/github/followers/Hammad55553?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+
+<a href="https://github.com/Hammad55553">
+<img src="https://komarev.com/ghpvc/?username=Hammad55553&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+</a>
+
+</div>
 
 ---
 
-### 💫 About Me
+<!-- ========================= SOCIAL ========================= -->
 
-I am a highly skilled **Senior React Native Developer** with **3+ years of specialized experience** architecting and shipping **numerous high-performance live production apps** across the USA, Malaysia, Canada, and Pakistan.
+<div align="center">
 
-- 📱 **Mobile Architect:** Expert in React Native (iOS & Android) with clean Redux-driven architecture.
-- ⚡ **Real-Time Features:** Deep integration of **WebRTC Video/Audio calling**, **Socket.io Group Chats**, and **FCM Push Notifications**.
-- 📍 **Location Intelligence:** High-frequency, real-time rider & asset tracking via **Google Maps API**.
-- ⚙️ **Backend Specialist:** Skilled in building high-performance, async backend APIs using **FastAPI** & Python.
-- 🎨 **Pixel-Perfect UI:** Turning complex Figma/Sketch designs into high-performance, smooth interfaces using **Reanimated** & Tailwind CSS.
+<a href="https://github.com/Hammad55553">
+<img src="https://img.shields.io/badge/GitHub-Hammad55553-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/hammadaslamkamboh/">
+<img src="https://img.shields.io/badge/LinkedIn-Hammad%20Aslam-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🛠️ Advanced Tech Stack & Tooling
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h4>📱 Frontend & Mobile</h4>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>⚙️ Backend & Database</h4>
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🛠️ Tools & Architecture</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🎨 UI & Styling</h4>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-    </td>
-  </tr>
+</div>
+
+<br/>
+
+<!-- ========================= ABOUT ========================= -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Full-Stack Engineer
+
+I'm **Hammad Aslam**, a Full-Stack Software Engineer with **3+ years of professional experience** building modern digital products.
+
+I work across the complete product lifecycle — from UI/UX and mobile applications to backend APIs, databases, real-time systems and cloud deployments.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ What I Work With
+
+- 📱 React Native & React.js
+- ⚙️ FastAPI & Node.js
+- 🗄️ PostgreSQL & MongoDB
+- ☁️ Firebase & AWS
+- 🔄 Real-Time Systems
+- 🔌 REST APIs & Integrations
+- 🖥️ Electron Applications
+- 💳 Payment Integrations
+- 🗺️ Google Maps APIs
+- 🤖 OCR & Automation
+
+</td>
+</tr>
 </table>
 
+</div>
+
 ---
 
-### 📱 Shipped Production Applications
+<!-- ========================= QUICK HIGHLIGHTS ========================= -->
 
-Here are some of the real-world products I have engineered and launched to the stores:
+<h2 align="center">✨ Professional Highlights</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🏡 KarayDaar / KarayDaar Agency</b>
-      <br/>
-      <i>Real Estate Ecosystem (Pakistan)</i>
-      <br/>
-      Map-based property discovery, real-time in-app chats, and comprehensive property CRM dashboards.
-      <br/>
-      <a href="https://play.google.com/store/apps/details?id=com.redexpo.karaydaar" target="_blank">
-        <img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" />
-      </a>
-      <a href="https://apps.apple.com/us/app/karaydaar/id6757885626" target="_blank">
-        <img src="https://img.shields.io/badge/App_Store-007AFF?style=flat-square&logo=apple&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <b>🛠️ Beatask App</b>
-      <br/>
-      <i>On-Demand Handyman Services (USA)</i>
-      <br/>
-      Handyman service bookings featuring live provider GPS tracking, real-time chats, and Stripe integrations.
-      <br/>
-      <a href="https://apps.apple.com/us/app/beatask-app/id6753684826" target="_blank">
-        <img src="https://img.shields.io/badge/App_Store-007AFF?style=flat-square&logo=apple&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>📲 One Dealer</b>
-      <br/>
-      <i>SIM Card Registration Platform (Malaysia)</i>
-      <br/>
-      Mission-critical digital SIM card registration system leveraging OCR technology for super-accurate national ID validation.
-      <br/>
-      <a href="https://play.google.com/store/apps/details?id=com.tfp.one_dealer_v1_1" target="_blank">
-        <img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" />
-      </a>
-      <a href="https://apps.apple.com/pk/app/one-dealer/id6743620821" target="_blank">
-        <img src="https://img.shields.io/badge/App_Store-007AFF?style=flat-square&logo=apple&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <b>🌊 Vibesea</b>
-      <br/>
-      <i>Social Networking & Hiring App (USA, Canada, India)</i>
-      <br/>
-      High-performance dynamic feed, direct recruiter-applicant chat modules, and media upload systems.
-      <br/>
-      <a href="https://apps.apple.com/us/app/vibesea/id6572292246" target="_blank">
-        <img src="https://img.shields.io/badge/App_Store-007AFF?style=flat-square&logo=apple&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<h3>📱</h3>
+<b>Mobile</b>
+<br/>
+React Native
+</td>
+
+<td align="center" width="25%">
+<h3>🌐</h3>
+<b>Web</b>
+<br/>
+React.js
+</td>
+
+<td align="center" width="25%">
+<h3>⚙️</h3>
+<b>Backend</b>
+<br/>
+FastAPI / Node.js
+</td>
+
+<td align="center" width="25%">
+<h3>☁️</h3>
+<b>Cloud</b>
+<br/>
+AWS / Firebase
+</td>
+
+</tr>
 </table>
 
----
-
-### 📊 GitHub Analytics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad55553&theme=tokyonight&show_icons=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad55553&theme=tokyonight&layout=compact&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad55553&theme=tokyonight" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad55553&theme=tokyo-night&bg_color=1a1b27&hide_border=false" width="97%" />
-</p>
-
-
+</div>
 
 ---
 
-### 👾 Contribution Snake Game
+<!-- ========================= TECH STACK ========================= -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hammad55553/Hammad55553/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hammad55553/Hammad55553/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Hammad55553/Hammad55553/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">🎨 Frontend & Mobile</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,html,css,redux,vite&perline=8" />
+
+</div>
+
+<br/>
+
+<h3 align="center">⚙️ Backend & Databases</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb,firebase&perline=7" />
+
+</div>
+
+<br/>
+
+<h3 align="center">☁️ Cloud, Desktop & Tools</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,electron,docker,git,github,vscode,postman,vercel,netlify&perline=9" />
+
+</div>
 
 ---
 
-### 💭 Developer Philosophy & Daily Quote
+<!-- ========================= DEVELOPMENT ========================= -->
 
-> "Make it work, make it right, make it fast." — *Kent Beck*
+<h2 align="center">🧩 Development Areas</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 📱 Mobile Development
+
+React Native  
+Cross-platform Apps  
+Push Notifications  
+Maps & Location  
+Real-Time Features  
+Payment Integrations  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Web Development
+
+React.js  
+Responsive Interfaces  
+Dashboards  
+Admin Panels  
+E-Commerce  
+Business Platforms  
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend Development
+
+FastAPI  
+Node.js  
+REST APIs  
+PostgreSQL  
+MongoDB  
+Authentication & Security  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🔄 Real-Time Systems
+
+Socket.io  
+Real-Time Chat  
+WebRTC  
+Live Location  
+FCM  
+Notifications  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🖥️ Desktop Applications
+
+Electron  
+POS Systems  
+Inventory Systems  
+LAN Applications  
+Business Automation  
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud & Integrations
+
+AWS  
+Firebase  
+Vercel  
+Netlify  
+Google Maps  
+Third-Party APIs  
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🤝 Let's Connect!
+<!-- ========================= PRODUCTION APPS ========================= -->
 
-<p align="center">
-  <a href="https://facebook.com/hammad55553" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/hammad78613" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="https://quora.com/profile/Hammad55553" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&style=for-the-badge" alt="Quora" />
-  </a>
-  <a href="https://tiktok.com/@hammad_55553" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge" alt="TikTok" />
-  </a>
-</p>
+<h2 align="center">📱 Production Applications</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hammad55553&color=00F2FE&style=flat-square&label=Profile+Views" alt="Visitor Count" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🇵🇰 KarayDaar</h3>
+
+A production mobile application focused on connecting users with services and location-based functionality.
+
+<br/>
+
+<b>Stack:</b>
+
+React Native • FastAPI • Firebase • Google Maps • Real-Time APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🇺🇸 Beatask App</h3>
+
+A production application built for users in the United States with modern mobile workflows and backend integrations.
+
+<br/>
+
+<b>Stack:</b>
+
+React Native • APIs • Firebase • Real-Time Features
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🇲🇾 One Dealer</h3>
+
+A production application developed for the Malaysian market with business-focused workflows.
+
+<br/>
+
+<b>Stack:</b>
+
+React Native • Backend APIs • Database • Firebase
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌎 Vibesea</h3>
+
+A modern digital product with mobile functionality and integrated backend services.
+
+<br/>
+
+<b>Stack:</b>
+
+React Native • APIs • Firebase • Real-Time Services
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧾 TEHZEEB POS</h3>
+
+Modern POS & business management system.
+
+**Tech**
+
+React • Vite • Electron • Redux Toolkit • FastAPI • MongoDB
+
+**Includes**
+
+- Sales Management
+- Inventory
+- Products
+- Customers
+- Reports
+- LAN Server Architecture
+- Desktop Application
+
+<br/>
+
+<a href="https://github.com/Hammad55553/TEHZEEB-POS">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚗 AsperRide Backend</h3>
+
+Backend architecture for a ride/location-based application.
+
+**Tech**
+
+FastAPI • Python • PostgreSQL • APIs • Real-Time Systems
+
+**Includes**
+
+- REST APIs
+- Authentication
+- Location Services
+- Ride Management
+- Real-Time Communication
+- Database Architecture
+
+<br/>
+
+<a href="https://github.com/Hammad55553">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🍽️ Zaiqa Restaurant</h3>
+
+Restaurant-focused application with modern UI and backend functionality.
+
+**Tech**
+
+React • APIs • Database • Responsive UI
+
+**Includes**
+
+- Restaurant Management
+- Menu
+- Orders
+- Customers
+- Responsive Interface
+
+<br/>
+
+<a href="https://github.com/Hammad55553/Zaiqa-Restaurant">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🗺️ Google Maps Scraper</h3>
+
+Automation tool created to collect structured business/location data from Google Maps.
+
+**Tech**
+
+Python • Automation • Data Extraction
+
+**Includes**
+
+- Business Data
+- Locations
+- Contact Information
+- Automated Extraction
+- Structured Output
+
+<br/>
+
+<a href="https://github.com/Hammad55553/Google-Map-Scraper">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================= WHAT I BUILD ========================= -->
+
+<h2 align="center">🏗️ What I Build</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<h2>📱</h2>
+<b>Mobile Apps</b>
+<br/>
+React Native
+<br/>
+iOS & Android
+</td>
+
+<td align="center" width="25%">
+<h2>🌐</h2>
+<b>Web Platforms</b>
+<br/>
+React.js
+<br/>
+Responsive UI
+</td>
+
+<td align="center" width="25%">
+<h2>⚙️</h2>
+<b>Business Systems</b>
+<br/>
+POS / ERP / CRM
+<br/>
+Automation
+</td>
+
+<td align="center" width="25%">
+<h2>🤖</h2>
+<b>AI & Automation</b>
+<br/>
+OCR / Bots
+<br/>
+API Integrations
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<h2>💬</h2>
+<b>Real-Time Apps</b>
+<br/>
+Chat
+<br/>
+WebRTC
+</td>
+
+<td align="center" width="25%">
+<h2>🗺️</h2>
+<b>Location Apps</b>
+<br/>
+Maps
+<br/>
+Live Location
+</td>
+
+<td align="center" width="25%">
+<h2>💳</h2>
+<b>Payments</b>
+<br/>
+Payment APIs
+<br/>
+Transactions
+</td>
+
+<td align="center" width="25%">
+<h2>🖥️</h2>
+<b>Desktop Apps</b>
+<br/>
+Electron
+<br/>
+LAN Systems
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hammad55553&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad55553&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hammad55553&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+<!-- ========================= ACTIVITY ========================= -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad55553&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- ========================= TROPHIES ========================= -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hammad55553&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+
+</div>
+
+---
+
+<!-- ========================= SNAKE ========================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Hammad55553/Hammad55553/output/github-contribution-grid-snake.svg" width="95%"/>
+
+</div>
+
+---
+
+<!-- ========================= CURRENT FOCUS ========================= -->
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+🚀
+<br/>
+<b>Scalable Apps</b>
+<br/>
+Building production-ready systems
+</td>
+
+<td align="center" width="25%">
+⚡
+<br/>
+<b>Backend</b>
+<br/>
+FastAPI & PostgreSQL
+</td>
+
+<td align="center" width="25%">
+🤖
+<br/>
+<b>AI & Automation</b>
+<br/>
+Smart digital workflows
+</td>
+
+<td align="center" width="25%">
+🌍
+<br/>
+<b>Global Products</b>
+<br/>
+Mobile & Web platforms
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================= ENGINEERING PHILOSOPHY ========================= -->
+
+<h2 align="center">💡 Engineering Philosophy</h2>
+
+<div align="center">
+
+> Build simple.  
+> Build scalable.  
+> Build for real users.  
+> Keep improving.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Clean Architecture • Reusable Components • Secure APIs • Responsive UI • Performance • Maintainability**
+
+</div>
+
+---
+
+<!-- ========================= CONNECT ========================= -->
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+If you're working on an interesting product, startup, business platform, mobile application, or automation project, feel free to connect.
+
+<br/><br/>
+
+<a href="https://github.com/Hammad55553">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hammadaslamkamboh/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+<!-- ========================= FOOTER ========================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
